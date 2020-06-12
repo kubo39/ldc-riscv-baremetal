@@ -1,4 +1,4 @@
-# LDC: RISC-V Barenetal
+# LDC: RISC-V Baremetal
 
 
 ## Get toolchain (optional)
